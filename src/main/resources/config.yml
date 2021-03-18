@@ -1,0 +1,12 @@
+###############
+#   Messages  #
+###############
+
+#Available languages: de, en
+lang: "de"
+
+#Is depending on wich language you have selected
+Messages:
+  sleep:
+    de: "&a %PLAYER% &2liegt nun im Bett und hofft auf süße Träume! &a(%SLEEPPLAYER%/%MAXPLAYER%)"
+    en: "&a %PLAYER% &2is now in bed and hoping for sweet dreams! &a(%SLEEPPLAYER%/%MAXPLAYER%)"

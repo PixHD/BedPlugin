@@ -1,0 +1,8 @@
+name: BedPlugin
+author: PixHD
+version: 0.1
+main: de.PixHD.BedPlugin.Main
+api-version: 1.16
+commands:
+  bedplugin:
+    description: This command is user to reload the Config

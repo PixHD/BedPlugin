@@ -1,0 +1,7 @@
+de\PixHD\BedPlugin\configManager.class
+de\PixHD\BedPlugin\Listener\PlayerLeaveListener.class
+de\PixHD\BedPlugin\Listener\BedLeaveListener.class
+de\PixHD\BedPlugin\Listener\JoinListener.class
+de\PixHD\BedPlugin\Listener\SleepListener.class
+de\PixHD\BedPlugin\Main.class
+de\PixHD\BedPlugin\Commands\reloadCommand.class
